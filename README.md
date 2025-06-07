@@ -21,7 +21,7 @@ I enjoy exploring complex systems and bringing ideas to life through code.
 
 - 🔭 I’m currently working on a **FastAPI** backend system for a social app.
 - 🌱 I’m learning about **Cloud** and **DevOps**.
-- 🤖 I’m passionate about Machine Learning, AI, and Data Science.
+- 🤖 I’m passionate about **Machine Learning**, **AI**, and **Data Science**.
 
 Check out my full portfolio: [https://lucianoinso.github.io/](https://lucianoinso.github.io/)
 
