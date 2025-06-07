@@ -27,6 +27,9 @@ Check out my portfolio: [https://lucianoinso.github.io/](https://lucianoinso.git
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoinso&layout=compact&theme=github_light)
 
+🏅 [HackerRank](https://www.hackerrank.com/lucianoinso): Gold badge (5⭐) in Python & Problem Solving
+
+
 ## 🚀 Projects
 
 Here are some of my favorite projects:
