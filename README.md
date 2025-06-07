@@ -31,25 +31,25 @@ Check out my portfolio: [https://lucianoinso.github.io/](https://lucianoinso.git
 
 Here are some of my favorite projects:
 
-- **[Video classification](https://github.com/lucianoinso/video-classification)**: A deep learning project focused on classifying video content using convolutional neural networks. Implemented using **TensorFlow**.
+- 🎞️ **[Video classification](https://github.com/lucianoinso/video-classification)**: A deep learning project focused on classifying video content using convolutional neural networks. Implemented using **TensorFlow**.
 
-- **[Graph coloring](https://github.com/lucianoinso/GraphColoring)**: A **C** program implementing a greedy algorithm to solve the graph coloring problem efficiently.
+- 🔢 **[Graph coloring](https://github.com/lucianoinso/GraphColoring)**: A **C** program implementing a greedy algorithm to solve the graph coloring problem efficiently.
 
-- **[Mental health records system](https://github.com/lucianoinso/horalibrepublic)**: A system that manages medical registries for psychologists, allowing them to record session notes and related data, built with **Python**, **Django**, **CSS** and **HTML**.
+- 📝 **[Mental health records system](https://github.com/lucianoinso/horalibrepublic)**: A system that manages medical registries for psychologists, allowing them to record session notes and related data, built with **Python**, **Django**, **CSS** and **HTML**.
 
-- **[Catan Settlers](https://github.com/lucianoinso/catan-settlers)**: A digital adaptation of the popular board game Settlers of Catan, built using **React**.
+- 🎲 **[Catan Settlers](https://github.com/lucianoinso/catan-settlers)**: A digital adaptation of the popular board game Settlers of Catan, built using **React**.
 
-- **[Cryptobot](https://github.com/lucianoinso/cryptobot)**: An automated trading bot for cryptocurrencies with basic strategies and API integrations with Binance and Telegram, implemented with **Python**.
+- 🤖 **[Cryptobot](https://github.com/lucianoinso/cryptobot)**: An automated trading bot for cryptocurrencies with basic strategies and API integrations with Binance and Telegram, implemented with **Python**.
 
-- **[Handwritten digits classifier](https://github.com/lucianoinso/mnist-digit-classifier)**: A machine learning project that classifies handwritten digits using neural networks trained with the MNIST dataset. Built with **Python**, **TensorFlow**, and **Javascript** for the frontend.
+- ✍️ **[Handwritten digits classifier](https://github.com/lucianoinso/mnist-digit-classifier)**: A machine learning project that classifies handwritten digits using neural networks trained with the MNIST dataset. Built with **Python**, **TensorFlow**, and **Javascript** for the frontend.
 
-- **[Pong](https://github.com/lucianoinso/pong)**: The classic Pong game written in **C** using the **Allegro** library.
+- 🕹️ **[Pong](https://github.com/lucianoinso/pong)**: The classic Pong game written in **C** using the **Allegro** library.
 
-- **[Space shooter](https://github.com/lucianoinso/spaceshooter)**: A space shooter game developed in **C**.
+- 🚀 **[Space shooter](https://github.com/lucianoinso/spaceshooter)**: A space shooter game developed in **C**.
 
-- **[Beach animation](https://github.com/lucianoinso/beach_animation)**: Procedural animation depicting a beach scene, made with **Processing**.
+- 🏖️ **[Beach animation](https://github.com/lucianoinso/beach_animation)**: Procedural animation depicting a beach scene, made with **Processing**.
 
-- **[Lotka-Volterra model](https://github.com/lucianoinso/LotkaVolterraPy)**: A **Python** simulation of the Lotka-Volterra predator-prey model, with visualization and explanations.
+- 🧬 **[Lotka-Volterra model](https://github.com/lucianoinso/LotkaVolterraPy)**: A **Python** simulation of the Lotka-Volterra predator-prey model, with visualization and explanations.
 
 
 ## 🛠️ Favorite Technologies & Tools
