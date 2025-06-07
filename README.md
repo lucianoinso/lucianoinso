@@ -23,7 +23,7 @@ I enjoy exploring complex systems and bringing ideas to life through code.
 - 🌱 I’m learning about **Cloud** and **DevOps**.
 - 🤖 I’m passionate about **Machine Learning**, **AI**, and **Data Science**.
 
-Check out my full portfolio: [https://lucianoinso.github.io/](https://lucianoinso.github.io/)
+Check out my portfolio: [https://lucianoinso.github.io/](https://lucianoinso.github.io/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoinso&layout=compact&theme=github_light)
 
