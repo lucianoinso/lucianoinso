@@ -47,7 +47,7 @@ Here are some of my favorite projects:
 
 - **[Space shooter](https://github.com/lucianoinso/spaceshooter)**: A space shooter game developed in **C**.
 
-- **[Beach animation](https://github.com/lucianoinso/beach-animation)**: Procedural animation depicting a beach scene, made with **Processing**.
+- **[Beach animation](https://github.com/lucianoinso/beach_animation)**: Procedural animation depicting a beach scene, made with **Processing**.
 
 - **[Lotka-Volterra model](https://github.com/lucianoinso/LotkaVolterraPy)**: A **Python** simulation of the Lotka-Volterra predator-prey model, with visualization and explanations.
 
