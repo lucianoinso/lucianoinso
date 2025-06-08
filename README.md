@@ -34,6 +34,8 @@ Check out my portfolio: [https://lucianoinso.github.io/](https://lucianoinso.git
 
 Here are some of my favorite projects:
 
+- 🎥 **[Realtime CCTV classification system](https://github.com/lucianoinso/realtime-cctv-classifier))**: A complete surveillance pipeline featuring a video streaming server and a client-side image classification module. Designed to process and classify CCTV footage in real-time using **Python**, **Flask**, **OpenCV** and **TensorFlow**.
+
 - 🎞️ **[Video classification](https://github.com/lucianoinso/video-classification)**: A deep learning project focused on classifying video content using convolutional neural networks. Implemented using **TensorFlow**.
 
 - 🔢 **[Graph coloring](https://github.com/lucianoinso/GraphColoring)**: A **C** program implementing a greedy algorithm to solve the graph coloring problem efficiently.
