@@ -34,19 +34,19 @@ Check out my portfolio: [https://lucianoinso.github.io/](https://lucianoinso.git
 
 Here are some of my favorite projects:
 
-- 🎥 **[Realtime CCTV classification system](https://github.com/lucianoinso/realtime-cctv-classifier))**: A complete surveillance pipeline featuring a video streaming server and a client-side image classification module. Designed to process and classify CCTV footage in real-time using **Python**, **Flask**, **OpenCV** and **TensorFlow**.
+- 🎥 **[Realtime water heater monitor](https://github.com/lucianoinso/water-heater-monitor)**: **Machine learning** powered system that monitors a water heater's status by detecting its LED indicator using computer vision. A webcam connected to a separate computer streams images to a Flask server, which uses a custom-trained model to classify the water heater as ON or OFF in real-time. The system logs predictions and visualizes usage trends. Implemented using: **Python**, **Flask**, **OpenCV**, **TensorFlow**, **Pandas** and **Matplotlib**.
 
-- 🎞️ **[Video classification](https://github.com/lucianoinso/video-classification)**: A deep learning project focused on classifying video content using convolutional neural networks. Implemented using **TensorFlow**.
+- 🎞️ **[Video classification](https://github.com/lucianoinso/video-classification)**: A deep learning project focused on classifying video content using convolutional neural networks. Implemented using: **TensorFlow**.
 
 - 🔢 **[Graph coloring](https://github.com/lucianoinso/GraphColoring)**: A **C** program implementing a greedy algorithm to solve the graph coloring problem efficiently.
 
-- 📝 **[Mental health records system](https://github.com/lucianoinso/horalibrepublic)**: A system that manages medical registries for psychologists, allowing them to record session notes and related data, built with **Python**, **Django**, **CSS** and **HTML**.
+- 📝 **[Mental health records system](https://github.com/lucianoinso/horalibrepublic)**: A system that manages medical registries for psychologists, allowing them to record session notes and related data. Built with: **Python**, **Django**, **CSS** and **HTML**.
 
-- 🎲 **[Catan Settlers](https://github.com/lucianoinso/catan-settlers)**: A digital adaptation of the popular board game Settlers of Catan, built using **React**.
+- 🎲 **[Catan Settlers](https://github.com/lucianoinso/catan-settlers)**: A digital adaptation of the popular board game Settlers of Catan. Built using: **React**.
 
-- 🤖 **[Cryptobot](https://github.com/lucianoinso/cryptobot)**: An automated trading bot for cryptocurrencies with basic strategies and API integrations with Binance and Telegram, implemented with **Python**.
+- 🤖 **[Cryptobot](https://github.com/lucianoinso/cryptobot)**: An automated trading bot for cryptocurrencies with basic strategies and API integrations with Binance and Telegram. Implemented with: **Python**.
 
-- ✍️ **[Handwritten digits classifier](https://github.com/lucianoinso/mnist-digit-classifier)**: A machine learning project that classifies handwritten digits using neural networks trained with the MNIST dataset. Built with **Python**, **TensorFlow**, and **Javascript** for the frontend.
+- ✍️ **[Handwritten digits classifier](https://github.com/lucianoinso/mnist-digit-classifier)**: A machine learning project that classifies handwritten digits using neural networks trained with the MNIST dataset. Built with: **Python**, **TensorFlow**, and **Javascript** for the frontend.
 
 - 🕹️ **[Pong](https://github.com/lucianoinso/pong)**: The classic Pong game written in **C** using the **Allegro** library.
 
