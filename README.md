@@ -34,7 +34,7 @@ Check out my portfolio: [https://lucianoinso.github.io/](https://lucianoinso.git
 
 Here are some of my favorite projects:
 
-- 🎥 **[Realtime water heater monitor](https://github.com/lucianoinso/water-heater-monitor)**: **Machine learning** powered system that monitors a water heater's status by detecting its LED indicator using computer vision. A webcam connected to a separate computer streams images to a Flask server, which uses a custom-trained model to classify the water heater as ON or OFF in real-time. The system logs predictions and visualizes usage trends. Implemented using: **Python**, **Flask**, **OpenCV**, **TensorFlow**, **Pandas** and **Matplotlib**.
+- 🎥 **[Realtime water heater monitor](https://github.com/lucianoinso/water-heater-monitor)**: **Machine learning** powered system that monitors a water heater's status by detecting its LED indicator using computer vision. A webcam-connected netbook runs a lightweight Flask server, simulating a passive IP camera feed. The image stream can be accessed over the network. A separate client machine fetches the images, uses a custom-trained model to classify the water heater as ON or OFF in real-time, and visualizes usage trends. Implemented using: **Python**, **Flask**, **OpenCV**, **TensorFlow**, **Pandas** and **Matplotlib**.
 
 - 🎞️ **[Video classification](https://github.com/lucianoinso/video-classification)**: A deep learning project focused on classifying video content using convolutional neural networks. Implemented using: **TensorFlow**.
 
